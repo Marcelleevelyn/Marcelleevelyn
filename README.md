@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelle+Santos;Tenho+20+anos;+Brasileira;Iniciando+na+área+de+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcelle+Santos;Tenho+21+anos;+Brasileira;Iniciante+na+área+de+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEUUSERNAME/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-C71585?style=for-the-badge&logo=GITHUB)](https://github.com/Marcelleevelyn)
